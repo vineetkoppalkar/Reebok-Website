@@ -1,0 +1,134 @@
+.bg-black-gradient {
+    position: relative;
+    margin: 0;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #282727 0%, #000000 0.01%, #434343 46.96%, #000000 100%);
+}
+
+.reebok-img {
+    position: relative;
+    left: 1%;
+    top: cal(-20%);
+
+    margin: 0;
+    padding: 0;
+    max-width: 10%;
+    max-height: 10%;
+}
+
+.bg-white-curve {
+    position: relative;
+    float: right;
+    width: 78%;
+    height: 100%;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(99, 94, 94, 0.86);
+    border-radius: 0px 0px 0px 35px;
+}
+
+.bg-green-gradient {
+    position: relative;
+    margin-top: -750px;
+    margin-left: 100px;
+    width: 400px;
+    height: 400px;
+
+    background: linear-gradient(215.3deg, #00FF94 14.1%, #284136 84.62%);
+    -webkit-filter: drop-shadow(10px 10px 10px #222);
+    filter: drop-shadow(10px 10px 10px #222);
+}
+
+.main-shoe-img {
+    position: relative;
+    margin-top: -750px;
+    margin-left: -480px;
+    width: 47%;
+    -webkit-filter: drop-shadow(50px 50px 50px #222);
+    filter: drop-shadow(50px 50px 50px #222);
+    transform: matrix(-0.86, -0.52, -0.52, 0.86, 0, 0);
+}
+
+.main-shoe-txt {
+    position: relative;
+    margin: 120px 5px 5px 280px;
+}
+
+.main-shoe-type-txt {
+    position: relative;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    font-size: 18px;
+    letter-spacing: 0.28em;
+
+    color: #000000;
+}
+
+.fast-txt {
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 75px;
+
+    color: #000000;
+}
+
+.flexweave-txt {
+    position: relative;
+    font-family: 'Saira', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 75px;
+    letter-spacing: 0.08em;
+
+    color: #000000;
+}
+
+.main-shoe-subtitle {
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 34px;
+    font-size: 23px;
+    letter-spacing: 0.06em;
+    width: 90%;
+
+    color: #000000;
+}
+
+.shop-now-btn {
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 34px;
+    font-size: 24px;
+    letter-spacing: 0.06em;
+
+    color: #FFFFFF;
+}
+
+.lg-reebok-txt {
+    position: relative;
+    margin: 0;
+    margin-bottom: -62px;
+    padding: 0;
+
+    font-family: 'Fira Mono', monospace;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 18.5vw;
+    /* font-size: 200px; */
+    letter-spacing: 0.09em;
+    color: rgba(173, 170, 170, 0.25);
+}
